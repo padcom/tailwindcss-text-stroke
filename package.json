@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-text-stroke",
+  "version": "0.0.1",
+  "description": "Adds text-stroke-[100..900] components to TailwindCSS",
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "tailwindcss-plugin",
+    "plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github:padcom/tailwindcss-text-stroke"
+  },
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "npm install"
+  },
+  "peerDependencies": {
+    "tailwindcss": "*"
+  }
+}
