@@ -14,11 +14,15 @@
     "type": "git",
     "url": "github:padcom/tailwindcss-text-stroke"
   },
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "prepublishOnly": "npm install"
   },
   "peerDependencies": {
     "tailwindcss": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
   }
 }
