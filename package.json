@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-text-stroke",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Adds text-stroke-[100..900] components to TailwindCSS",
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "MIT",
